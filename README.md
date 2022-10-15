@@ -23,6 +23,6 @@
 
 
 # Решение:
-[Задание 1](https://github.com/artmaxst/Homework/blob/main/2.1.pdf)
+[Задание 1](https://github.com/artmaxst/Jobs/blob/main/2.1.pdf)
 
 
