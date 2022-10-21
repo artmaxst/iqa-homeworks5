@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «2.1. Артефакты тестирования. Тестовая документация»
+# Задача №4
 
 
 
@@ -14,6 +14,6 @@
 
 
 # Решение:
-[Задание 1](https://github.com/artmaxst/Jobs/blob/main/2.1.pdf)
+[Решение 1](https://github.com/artmaxst/Jobs/blob/main/2.1.pdf)
 
 
